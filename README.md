@@ -2,7 +2,7 @@
 
 ## Documentation
 
-* [Oficial Repository Documentation](https://github.com/ReactiveX/RxSwift/tree/DocumentationIndex/Documentation#readme)
+* [Oficial Repository Documentation](https://github.com/ReactiveX/RxSwift/tree/master/Documentation#readme)
 * [Oficial Guides](http://guides.rxswift.org)
 
 ## Tutorials
