@@ -9,6 +9,7 @@
 
 * [RxSwiftPlayground]( https://github.com/GuyKahlon/RxSwiftPlayground )
 * [Implementing MVVM in iOS with RxSwift](https://medium.com/@marinbenc/implementing-mvvm-in-ios-with-rxswift-458a2d47c33d)
+  - [`RxViewModel`](https://github.com/RxSwiftCommunity/RxViewModel) is an `MVVM` implementation using `RxSwift`
 
 ## Conferences
 
